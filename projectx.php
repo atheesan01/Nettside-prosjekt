@@ -1,6 +1,6 @@
 <!doctype html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8">
 <title> Project X </title>
 <link rel="stylesheet" href="stilark.css">
 </head>
