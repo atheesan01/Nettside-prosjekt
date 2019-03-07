@@ -8,7 +8,7 @@
 <div class="innpakning">	
 	<div class="top"> 
 		<div class="top1">
-		<p>årets spiller</p>
+		<p>best player</p>
 		</div>
 		<div class="top2">	
 		</div>
