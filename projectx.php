@@ -25,31 +25,35 @@
 			
 			</div>
 			
-			<div class="boks2"> 
+			<div class="boks1"> 
 				
 			</div>
 			
-			<div class="boks3"> 
+			<div class="boks1"> 
 				
 			</div>
 			
-			<div class="boks4"> 
+			<div class="boks1"> 
 				
 			</div>
 	
-			<div class="boks5"> 
+			<div class="boks1"> 
 				
 			</div>
 			
-			<div class="boks6"> 
+			<div class="boks1"> 
 				
 			</div>
 			
-			<div class="boks7"> 
+			<div class="boks1"> 
 				
 			</div>
 			
-			<div class="boks8"> 
+			<div class="boks1"> 
+				
+			</div>
+			
+			<div class="boks1"> 
 				
 			</div>
 			
