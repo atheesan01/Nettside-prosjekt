@@ -1,6 +1,6 @@
 <!doctype html>
 <head>
-<meta charset="UTF-8">
+
 <title> Project X </title>
 <link rel="stylesheet" href="stilark.css">
 </head>
