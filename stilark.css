@@ -1,9 +1,10 @@
 body
 {
 	margin: 0px;
+
 }
 .innpakning{
-	background-color: #FFFFFF;
+	background-color: #1d1e22;
 	display: flex;
 	flex-wrap: wrap;
 	height: auto;
@@ -183,3 +184,4 @@ body
 	
 	
 }
+

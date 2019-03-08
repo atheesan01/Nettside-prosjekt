@@ -7,8 +7,25 @@
 <link rel="stylesheet" href="stilark.css">
 </head>
 <body>
-<div class="innpakning">	
-	<div class="top"> 
+
+<?php
+$tjener = "localhost";
+$brukernavn = "root";
+$passord = "";
+$database = "avstemming";
+
+$kobling = new mysqli($tjener,$brukernavn,$passord,$database);
+
+if ($kobling->connect_error) {
+	die ("noe gikk galt: " . $kobling->connect_error);
+	
+}
+
+
+
+?>
+
+<div class="top"> 
 		<div class="top1">
 		<p>årets spiller</p>
 		</div>
@@ -17,6 +34,10 @@
 		<div class="top3">
 		</div>
 	</div>
+
+
+<div class="innpakning">	
+	
 		
 	
 		<div class="innpakning2">
